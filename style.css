@@ -14,7 +14,6 @@ body {
   height: 100vh;
   margin: 0;
 }
-
 .currency {
   display: flex;
   align-items: center;
@@ -40,6 +39,7 @@ body {
   background: transparent;
   font-size: 22px;
   text-align: right;
+  width: 200px;
 }
 
 .middle {
@@ -103,8 +103,4 @@ button:focus {
 .floating-text a {
   text-decoration: none;
   color: rgb(141, 0, 235);
-}
-
-.holder {
-  width: 100%;
 }
