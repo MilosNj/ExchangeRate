@@ -104,3 +104,7 @@ button:focus {
   text-decoration: none;
   color: rgb(141, 0, 235);
 }
+
+.holder {
+  width: 100%;
+}
